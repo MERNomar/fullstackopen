@@ -1,0 +1,21 @@
+.added-person {
+    background-color: rgb(218, 217, 217);
+    border: 2px green solid ;
+    color: green;
+    border-radius: 3px;
+    font-size: x-large;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.error-message {
+    background-color: rgb(228, 224, 224);
+    border: 2px red solid ;
+    color: red;
+    border-radius: 3px;
+    font-size: x-large;
+    padding: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
